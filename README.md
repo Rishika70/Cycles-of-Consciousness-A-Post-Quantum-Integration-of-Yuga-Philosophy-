@@ -7,26 +7,6 @@ This thesis explores the profound connections between the ancient philosophy of 
 
 ---
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Part I: Philosophical Foundations](#part-i-philosophical-foundations)
-  - [Yugas as Inner States of Consciousness](#yugas-as-inner-states-of-consciousness)
-  - [Microcosm-Macrocosm Reflection](#microcosm-macrocosm-reflection)
-- [Part II: Scientific Correspondences](#part-ii-scientific-correspondences)
-  - [Biological Lifespan and Consciousness](#biological-lifespan-and-consciousness)
-  - [Quantum Consciousness and Epigenetic Memory](#quantum-consciousness-and-epigenetic-memory)
-  - [Astronomical Cycles and Human Evolution](#astronomical-cycles-and-human-evolution)
-- [Part III: Mathematical Models](#part-iii-mathematical-models)
-  - [Cyclic Time Structures: Yugas as Nested Fractals](#cyclic-time-structures-yugas-as-nested-fractals)
-  - [Resonance Models of Consciousness and Cosmic Rhythm](#resonance-models-of-consciousness-and-cosmic-rhythm)
-  - [A Post-Quantum Evolutionary Hypothesis](#a-post-quantum-evolutionary-hypothesis)
-- [Conclusion](#conclusion)
-- [Appendix: Flowchart](#appendix-flowchart)
-- [Bibliography](#bibliography)
-
----
-
 ## Introduction
 
 Time, consciousness, and life have been interwoven mysteries across civilizations. Ancient Eastern philosophies, particularly the Upanishads, envisioned the universe and the human as mirrors of each other — microcosm and macrocosm. 
@@ -115,7 +95,8 @@ This is not nostalgia for the past but a future-forward movement — towards a P
 
 ## Appendix: Flowchart
 
-![Flowchart of Consciousness Evolution](flowchart.png)
+![Flowchart of Consciousness Evolution](![image](https://github.com/user-attachments/assets/97f29202-3fb5-4322-bcd1-573995992fe7)
+)
 
 > **Flowchart Summary**:  
 > 1. Cosmic Resonance →  
@@ -152,13 +133,4 @@ This is not nostalgia for the past but a future-forward movement — towards a P
 
 ---
 
-## Flowchart
-
-```mermaid
-flowchart TD
-    A[Cosmic Resonance] --> B[Biological Longevity and Evolution]
-    B --> C[Epigenetic Regulation]
-    C --> D[Consciousness Cycles (Yugas)]
-    D --> E[Return to Natural Vastness (Satya Yuga State)]
-![image](https://github.com/user-attachments/assets/ffed65cf-a1ab-4b48-93e1-bcc5cc821afa)
 
