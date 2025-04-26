@@ -1,4 +1,3 @@
-# Cycles-of-Consciousness-A-Post-Quantum-Integration-of-Yuga-Philosophy
 # Cycles of Consciousness: A Post-Quantum Integration of Yuga Philosophy, Human Longevity, and Cosmic Resonance
 
 ## Abstract
@@ -95,7 +94,8 @@ This is not nostalgia for the past but a future-forward movement — towards a P
 
 ## Flowchart
 
-![Flowchart of Consciousness Evolution] ![image](https://github.com/user-attachments/assets/97f29202-3fb5-4322-bcd1-573995992fe7)
+### Flowchart of Consciousness Evolution
+![image](https://github.com/user-attachments/assets/97f29202-3fb5-4322-bcd1-573995992fe7)
 
 > **Flowchart Summary**:  
 > 1. Cosmic Resonance →  
